@@ -1,0 +1,103 @@
+@media only screen and (min-width:300px) and (max-width:600px){
+    .banner-content .title {
+        font-size: 2.125rem;
+    }
+    .banner-wapper{
+        height: 100vh;
+    }
+    .category .card{
+        margin: 20px 30px;
+    }
+    .owl-next{
+        right:-8px;
+    }
+    .owl-prev{
+        left: -8px;
+    }
+    .heading-text{
+        text-align: start;
+        width: auto !important;
+        font-size: 22px;
+    }
+    .shop-btn .cart-btn {
+        padding: 10px 10px;
+    }
+    .team-3 .cart-btn {
+        padding: 14px 10px;   
+    }
+    .btnhover{
+        max-width: 60px;
+    }
+    .shop-btn .cart-btn a {
+        font-size: 30px;
+    }
+    .product-desc .title a{
+        font-size: 22px;
+    }
+    .product-desc .author {
+        font-size: 17px;
+    }
+    .product-desc .book-footer .rate, .price {
+        font-size: 19px;
+    }
+    .table > :not(caption) > * > * {
+        font-size: 13px;
+    }
+    .cart-box{
+        right: -55px;
+        top: 35px;
+    }
+    .team-3 .member-socials{
+        max-width: 60px !important; 
+    }
+    .team-3 .member-socials a{
+        font-size: 30px;
+    }
+    .min-9
+    {
+        min-width: 9em;
+    }
+    .min-21
+    {
+        min-width: 21em;
+    }
+    .account-main table td
+    {
+        font-size: 13px;
+    }
+    .cart img {
+        width: 100% !important;
+    }
+    .fsc-20
+    {
+        font-size: 20px!important;
+    }
+    .textc-end
+    {
+        text-align: end;
+    }
+    .logo {
+        max-width: 9.5em!important;
+    }
+    .search-box {
+        width: 100% !important;
+        margin-top: 6px;
+    }
+    .navbar-toggler-icon {       
+        width: 26px;
+        height: 25px;
+    }
+    .fsc-13
+    {
+        font-size: 13px;
+    }
+    .fsc-12
+    {
+        font-size: 12px;
+    }
+}
+
+
+@media only screen and (min-width:600px) and (max-width:770px) and (orientation:landscape){
+
+}
